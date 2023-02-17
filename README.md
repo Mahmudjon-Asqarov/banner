@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmudjon Asqarov</h1>
+
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align="right" alt="coding" height="200" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudjon-asqarov&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudjon-asqarov" /> </p>
